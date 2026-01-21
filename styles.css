@@ -1,6 +1,6 @@
 /* Estilos modernos con negro y dorado */
 body {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Berlin Sans FB Demi', sans-serif;
     margin: 0;
     padding: 0;
     background-color: #f4f4f4;
@@ -126,4 +126,5 @@ footer {
     .menu-toggle {
         display: block;
     }
+
 }
